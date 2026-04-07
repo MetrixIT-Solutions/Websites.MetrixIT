@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Allow: /
+Allow: /sitemap.xml
+Sitemap: https://metrixit.com/sitemap.xml
+Sitemap: https://www.metrixit.com/sitemap.xml
